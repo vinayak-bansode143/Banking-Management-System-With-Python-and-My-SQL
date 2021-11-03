@@ -1,0 +1,2 @@
+# Banking-Management-System-With-Python-and-My-SQL
+The software required for management of data is called DBMS. It has three models  . Relation model: It stores information in form of rows(cardinality) and           columns(degree). . Hierarchical model: In this type of model, we have multiple records inside a single record. . network model: In this , the data is represented by collections of record and relationship is represented by associations.
